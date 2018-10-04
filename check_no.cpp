@@ -1,3 +1,5 @@
+/* Check number whether positive or 
+    negative or zero */
 #include<iostream>
 using namespace std;
 main()
